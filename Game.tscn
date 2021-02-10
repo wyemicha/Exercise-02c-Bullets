@@ -1,0 +1,20 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Alien/Alien.tscn" type="PackedScene" id=1]
+
+[node name="Game" type="Node2D"]
+
+[node name="Bullets" type="Node2D" parent="."]
+
+[node name="Explosions" type="Node2D" parent="."]
+
+[node name="Aliens" type="Node2D" parent="."]
+
+[node name="Alien" parent="Aliens" instance=ExtResource( 1 )]
+position = Vector2( 512, 400 )
+
+[node name="Alien2" parent="Aliens" instance=ExtResource( 1 )]
+position = Vector2( 512, 250 )
+
+[node name="Alien3" parent="Aliens" instance=ExtResource( 1 )]
+position = Vector2( 512, 100 )
