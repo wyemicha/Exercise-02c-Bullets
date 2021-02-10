@@ -2,7 +2,7 @@
 
 Exercise for MSCH-C220, 10 February 2021
 
-A demonstration of this exercise is available at [https://youtu.be/OCG7WsQljEQ](https://youtu.be/OCG7WsQljEQ).
+A demonstration of this exercise is available at [https://youtu.be/OCG7WsQljEQ](https://youtu.be/OCG7WsQljEQ)
 
 This exercise should provide a crucial step toward being able to implement Project 02. The exercise will allow you to generate self-propelling bullets when you press the mouse button. 
 
