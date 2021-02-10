@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=2]
 
-[ext_resource path="res://Assets/alien.png" type="Texture" id=1]
+[ext_resource path="res://Alien/alien.png" type="Texture" id=1]
 
 [node name="Alien" type="KinematicBody2D"]
 collision_layer = 4
