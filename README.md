@@ -4,7 +4,7 @@ Exercise for MSCH-C220, 10 February 2021
 
 This exercise should provide a crucial step toward being able to implement Project 02. The exercise will allow you to generate self-propelling bullets when you press the mouse button. 
 
-Fork this repository. When that process has completed, make sure that the top of the repository reads [your username]/Exercise-02b-Mouse-and-Keyboard. *Edit the LICENSE and replace BL-MSCH-C220-S21 with your full name.* Commit your changes.
+Fork this repository. When that process has completed, make sure that the top of the repository reads [your username]/Exercise-02c-Bullets. *Edit the LICENSE and replace BL-MSCH-C220-S21 with your full name.* Commit your changes.
 
 Press the green "Code" button and select "Open in GitHub Desktop". Allow the browser to open (or install) GitHub Desktop. Once GitHub Desktop has loaded, you should see a window labeled "Clone a Repository" asking you for a Local Path on your computer where the project should be copied. Choose a location; make sure the Local Path ends with "Exercise-02c-Bullets" and then press the "Clone" button. GitHub Desktop will now download a copy of the repository to the location you indicated.
 
